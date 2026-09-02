@@ -1,0 +1,42 @@
+:root {
+  /* Backgrounds */
+  --bg-canvas: #0a0a0a;
+  --bg-app: #111111;
+  --bg-panel: #1a1a1a;
+  --bg-input: #141414;
+  --bg-hover: #222222;
+
+  /* Borders */
+  --border-subtle: #2a2a2a;
+  --border-strong: #3a3a3a;
+
+  /* Text */
+  --text-primary: #c8c8c8;
+  --text-secondary: #707070;
+  --text-muted: #484848;
+  --text-value: #e0e0e0;
+
+  /* Accent */
+  --accent: #3dcc7a;
+  --accent-dim: rgba(61, 204, 122, 0.15);
+  --accent-glow: rgba(61, 204, 122, 0.4);
+
+  /* Semantic */
+  --focus-ring: var(--accent);
+  --slider-track: var(--border-subtle);
+  --slider-fill: var(--accent);
+
+  /* Typography */
+  --font-ui: 'Inter', 'Helvetica Neue', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-lg: 16px;
+  --space-xl: 24px;
+
+  /* Motion */
+  --transition: 100ms ease;
+}

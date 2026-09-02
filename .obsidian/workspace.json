@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Git & Github 101.md",
+                "file": "Tutorials/Three.js & React Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & Github 101"
+              "title": "Three.js & React Resources"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorials/Git & Github 101.md",
+                "file": "Tutorials/Three.js & React Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorials/Git & Github 101.md",
+                "file": "Tutorials/Three.js & React Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorials/Git & Github 101.md",
+                "file": "Tutorials/Three.js & React Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,51 @@
   },
   "active": "289e1e3478082157",
   "lastOpenFiles": [
-    "This is a note.md",
-    "Tutorials/Git & Github 101.md",
-    "Tutorials"
+    "STYLE-GUIDE.md",
+    "Tutorials/Three.js & React Resources.md",
+    "my-react-app/dist/assets/index-nJsj06X_.css",
+    "my-react-app/dist/assets/index-CKX9yxg-.js",
+    "my-react-app/src/styles/components.css",
+    "my-react-app/src/styles/tokens.css",
+    "my-react-app/src/styles",
+    "Tutorials/Installing React.md",
+    "my-react-app/dist/index.html",
+    "my-react-app/dist/assets/index-El02blr7.js",
+    "my-react-app/dist/assets/index-BPRHpY8-.css",
+    "my-react-app/dist/assets",
+    "my-react-app/dist/icons.svg",
+    "my-react-app/dist/favicon.svg",
+    "my-react-app/dist",
+    "my-react-app/node_modules/three/README.md",
+    "my-react-app/node_modules/three/examples/jsm/libs/draco/README.md",
+    "my-react-app/node_modules/three/examples/jsm/libs/basis/README.md",
+    "my-react-app/node_modules/three/src/nodes/materialx/DISCLAIMER.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/examples/jsm/libs/draco/README.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/examples/jsm/libs/basis/README.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/src/nodes/materialx/DISCLAIMER.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/examples/fonts/ttf/README.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/examples/fonts/README.md",
+    "my-react-app/node_modules/stats-gl/node_modules/three/README.md",
+    "my-react-app/node_modules/stats-gl/README.md",
+    "my-react-app/node_modules/tunnel-rat/node_modules/zustand/readme.md",
+    "my-react-app/node_modules/tunnel-rat/README.md",
+    "my-react-app/node_modules/tunnel-rat/CHANGELOG.md",
+    "my-react-app/node_modules/three-stdlib/node_modules/fflate/README.md",
+    "my-react-app/node_modules/three-stdlib/node_modules/fflate/CHANGELOG.md",
+    "my-react-app/node_modules/three-stdlib/README.md",
+    "my-react-app/node_modules/@tweenjs/tween.js/README.md",
+    "my-react-app/node_modules/@dimforge/rapier3d-compat/README.md",
+    "my-react-app/node_modules/@monogrid/gainmap-js/README.md",
+    "my-react-app/node_modules/@monogrid/gainmap-js/CONTRIBUTING.md",
+    "my-react-app/node_modules/@monogrid/gainmap-js/CODE_OF_CONDUCT.md",
+    "my-react-app/node_modules/@monogrid/gainmap-js/CHANGELOG.md",
+    "test-react-ts/src/assets/vite.svg",
+    "test-react-ts/src/assets/react.svg",
+    "test-react-ts/src/assets/hero.png",
+    "test-react-ts/public/icons.svg",
+    "test-react-ts/public/favicon.svg",
+    "my-react-app/src/assets/vite.svg",
+    "my-react-app/src/assets/react.svg",
+    "my-react-app/src/assets/hero.png"
   ]
 }

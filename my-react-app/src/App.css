@@ -1,0 +1,36 @@
+.app {
+  position: relative;
+  width: 100vw;
+  height: 100svh;
+  overflow: hidden;
+}
+
+.three-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.three-canvas:active {
+  cursor: grabbing;
+}
+
+.ui-overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 640px) {
+  .side-panel {
+    top: auto;
+    bottom: var(--space-md);
+    left: var(--space-md);
+    right: var(--space-md);
+    width: auto;
+  }
+}
